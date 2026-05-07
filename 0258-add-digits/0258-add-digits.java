@@ -1,19 +1,22 @@
 class Solution {
+
     public int addDigits(int num) {
         
-        while(num >= 10){   // repeat until single digit
-            
-            int sum = 0;
-            
-            while(num > 0){
-                int rem = num % 10;
-                sum = sum + rem;
-                num = num / 10;
-            }
-            
-            num = sum;
+        // base condition
+        if(num < 10){
+            return num;
         }
-        
-        return num;
+
+        return addDigits(sumOfDigits(num));
+    }
+
+    public int sumOfDigits(int num){
+
+        // base condition
+        if(num == 0){
+            return 0;
+        }
+
+        return (num % 10) + sumOfDigits(num / 10);
     }
 }
