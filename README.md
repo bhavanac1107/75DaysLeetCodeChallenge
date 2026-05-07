@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhavanac1107/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Union-Find
 |  |
